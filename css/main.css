@@ -1,0 +1,50 @@
+
+
+.navigator {
+  	background: #ffc; 
+  	padding: 10px;
+	clear: both;
+	height: 4%;
+}
+.navigator a{
+	float: left;
+	background: #fff; 
+	padding: 2px 2px 2px 1px;
+}
+.bottom {
+  	background: #fff;
+	width: 10%;	
+  	padding: 10px;
+	margin: 10px;
+}
+
+.body {
+   	background: #fc0; 
+    padding: 5px;
+	clear: both;
+	height: 40%;
+}
+
+.content {
+  	background: #fff; 
+  	width: 79%; 
+	height: 30%;
+  	padding: 10px;
+	float: right;
+	margin: 10px;
+	position: relative;
+   }
+   
+.menu {
+  	background: #fff; 
+  	width: 14%;
+	height: 30%;
+  	padding: 10px;
+	float: left;
+	margin: 10px;
+	position: relative;
+}
+
+.menu a{
+	clear: both;
+}
